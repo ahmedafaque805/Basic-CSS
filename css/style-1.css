@@ -1,0 +1,109 @@
+/* ******************* Topic: Color and Background Color *********************************** */
+
+
+/* .color1 {
+    color: rgb(243, 207, 4);
+    background-color: grey;
+}
+
+.para1 {
+    color: greenyellow;
+    background-color: dimgray;
+} */
+
+
+/* ******************* Topic: Border ******************************************************* */
+
+
+/* .para2 {
+    border-width: 8px ;
+    border-style: solid dotted dashed inset;
+    border-color: dodgerblue;
+    border-radius: 2px;
+} */
+
+
+/* ******************* Topic: Outline ****************************************************** */
+
+
+/* .para3 {
+    outline-width: 4px;
+    outline-style: solid;
+    outline-color: gold;
+    outline-offset: 3px;
+} */
+
+
+/* ******************* Topic: Padding ****************************************************** */
+
+
+/* .para4 {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 10px 5px 10px 5px;
+} */
+
+
+/* ******************* Topic: Margin ****************************************************** */
+
+
+/* .para5{
+    border: solid 5px black;
+    padding: 10px;
+    margin: 10px 10px 20px 10px;
+} */
+
+
+/* ******************* Topic: Height and Width ********************************************* */
+
+
+/* .para5 {
+    border: black solid 5px;
+    padding: 5px;
+    width: 80%;
+    height: 50%;
+} */
+
+
+/* ******************* Topic: Box-sizing ******************************************************* */
+ 
+
+/* .para6{
+    padding: 10px;
+    border: solid black 5px;
+    box-sizing: border-box;
+} */
+
+
+/* ******************* Topic: Overflow ***************************************************** */
+
+
+/* .para7{
+    width: 300px;
+    height: 150px;
+    padding: 5px;
+    margin: 10px 0 0 10px;
+    border: black solid 5px;
+    overflow: scroll;
+} */
+
+
+/* ******************* Topic: Border Radius ************************************************ */
+
+
+/* .para8{
+    border: solid 5px black;
+    border-radius: 10px;
+    padding: 5px;
+} */
+
+
+/* ******************* Topic: Box-Shadow *************************************************** */
+
+
+/* .para9{
+    box-shadow: -1px 1px 3px 2px black;
+} */
+
+
